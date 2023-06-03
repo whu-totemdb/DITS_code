@@ -32,7 +32,7 @@ public class interactionCenter {
     long beginSearchTime = 0;
 
     public static int dimension = 2;
-    public static String directory= "D:\\IdeaProjects\\MSDS-InteractionCenter\\src\\Data\\Query\\"; //"D:\\datasets\\MultiSourceQuery\\";
+    public static String directory= "D:\\Github\\MSDS-code\\interactionCenter\\src\\Data\\Query\\";
     public HashMap<String, PriorityQueue<relaxIndexNode> > allQueryResults = new HashMap<>();
     public indexNode globalRootNode = new indexNode(dimension);
     public static ArrayList<String> queryList = new ArrayList<>();

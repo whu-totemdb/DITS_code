@@ -19,8 +19,8 @@ Dependency
 
 Parameter setting
 -----------
-* clientSize: set the number of data sources in interactionCenter/src/main/interactionCenter.java
-* IPaddress: set the IP address of the interaction center device in dataSource/src/main/dataSource.java
+* clientSize: set the number of data sources in interactionCenter/src/main/java/Server/interactionCenter.java
+* IPaddress: set the IP address of the interaction center device in dataSource/src/main/java/Client/dataSource.java
 
 Run experiment
 ----------

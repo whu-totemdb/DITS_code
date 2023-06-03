@@ -29,9 +29,9 @@ public class dataSource {
     static boolean loadDatasetGraph = false;
     String siloID = "1";
     public static String siloName = "baidu";
-    public static String directory= "D:\\datasets\\MultiSource\\";
-    public static String preprocessFilePath = "D:\\GitHub\\MSDS-dataSource\\src\\Data\\" ;
-    public static String storeIndexPath = "D:\\GitHub\\MSDS-dataSource\\src\\Data\\";
+    public static String directory= "D:\\datasets\\MultiSource\\"; //the directory of raw datasets
+    public static String preprocessFilePath = "D:\\GitHub\\MSDS-code\\dataSource\\src\\Data\\" ;
+    public static String storeIndexPath = "D:\\GitHub\\MSDS-code\\dataSource\\src\\Data\\";
     public static String graphfilePath;
     public dataSource() throws IOException, CloneNotSupportedException, ClassNotFoundException {
         //1,data preprocessing
