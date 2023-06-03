@@ -24,5 +24,5 @@ Parameter setting
 
 Run experiment
 ----------
-* Run the interactionCenter on one device first
-* After run interactionCenter, run the dataSource on the other device
+* Run the interactionCenter module on one device first
+* After run interactionCenter, run the dataSource module on the other device
