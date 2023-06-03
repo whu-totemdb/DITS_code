@@ -16,7 +16,6 @@ Dependency
 * Please download the 'Quadtree' folder from the above './mvn_denpendency/Quadtree/' directory and put it in your own maven repository
 * this 'Quadtree' dependency provide the implementation of comparison index "quadtree".
 
-
 Parameter setting
 -----------
 * clientSize: set the number of data sources in interactionCenter/src/main/java/Server/interactionCenter.java
