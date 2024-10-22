@@ -1,7 +1,7 @@
-# MSDS
+# DITS
 Introduction
 -------------
-This repo holds the source code and scripts for reproducing the key experiments of 'Efficient Spatial Dataset Search over Multiple Data Sources'.
+This repo holds the source code and scripts for reproducing the key experiments of 'Joinable Search over Multi-source Spatial Datasets: Overlap, Coverage, and Efficiency'.
 
 Requirements
 ============
@@ -13,8 +13,8 @@ Usage
 ============
 Dependency
 -----------
-* Please download the 'Quadtree' folder from the above './mvn_denpendency/Quadtree/' directory and put it in your own maven repository
-* this 'Quadtree' dependency provide the implementation of comparison index "quadtree".
+* Please download the 'Quadtree' folder from the above './mvn_denpendency/Quadtree/' directory and put it in your maven repository
+* this 'Quadtree' dependency provides the implementation of the comparison index "quadtree".
 
 Parameter setting
 -----------
@@ -24,4 +24,4 @@ Parameter setting
 Run experiment
 ----------
 * Run the interactionCenter module on one device first
-* After run interactionCenter, run the dataSource module on the other device
+* After running interactionCenter, run the dataSource module on the other device
