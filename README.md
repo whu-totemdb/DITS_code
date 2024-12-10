@@ -44,9 +44,9 @@ Run experiment
 
 Citation
 ---------
-* If you use our code for research work, please cite our paper as below:
+* If you use our code for research work, please cite our paper below:
 
-
+```
 @inproceedings{Yang2025DITS,
 
   title={Joinable Search over Multi-source Spatial Datasets: Overlap, Coverage, and Efficiency},
