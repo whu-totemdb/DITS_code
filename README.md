@@ -47,21 +47,20 @@ Citation
 * If you use our code for research work, please cite our paper below:
 
 ```
-@inproceedings{yang2025,
+@inproceedings{Yang2025DITS,
 
-      title={A Unified Approach for Multi-Granularity Search over Spatial Datasets},
+  title={Joinable Search over Multi-source Spatial Datasets: Overlap, Coverage, and Efficiency},
 
-      author={Wenzhe Yang and Sheng Wang and Shixun Huang and Yuyang Liao and Yuan Sun and Juliana Freire and Zhiyong Peng},
+  author={Yang, Wenzhe and Wang, Sheng and Chen, Zhiyu and Sun, Yuan and Peng, Zhiyong},
 
-      year={2025},
+  booktitle={Proceedings of the 41th International Conference on Data Engineering},
 
-      eprint={2412.04805},
+  year={2025},
 
-      archivePrefix={arXiv},
+  publisher={IEEE},
 
-      primaryClass={cs.DB},
-
-      url={https://arxiv.org/abs/2412.04805},
+  organization={IEEE}
 
 }
+
 
